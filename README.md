@@ -1,6 +1,6 @@
 # Olá 👋
 
-Gosto de sempre estar aprenderndo novas tecnologias e funcionalidades
+Gosto de sempre estar inovando, aprendendo novas tecnologias e fazer desafios
 
 ## Mais sobre mim
 
