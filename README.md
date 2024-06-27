@@ -1,7 +1,7 @@
 
 
 
-<p align="center">Hy!</p>&nbsp;
+<p align="center">Hi!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafs-m1ke&theme=radical&mode=weekly" />
